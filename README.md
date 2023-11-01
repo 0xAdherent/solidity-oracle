@@ -1,0 +1,2 @@
+# solidity-oracle
+solidity上的简单喂价合约
